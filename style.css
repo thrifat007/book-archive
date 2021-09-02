@@ -1,0 +1,20 @@
+body {
+    background-image: url(images/bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-attachment: fixed;
+    font-family: Philosopher;
+  }
+
+p#result {
+    display: none;
+  }
+p#book-found {
+    display: none;
+  }
+  
+  /*  spinner css  */
+#spinner {
+    display: none;
+  }
